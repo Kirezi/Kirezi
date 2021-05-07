@@ -1,5 +1,6 @@
-# What's good Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+# Hey, I am Patrick <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### I am currently in the process of updating my github with my recent projects.
+## come back soon for some fun :relaxed: 
 <!--
 **Kirezi/Kirezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
